@@ -1,4 +1,4 @@
-###### [OpenPatti Web Site](https://openpatti.wordpress.com){:target="_blank" style="text-align: left;"} 
+###### [back to OpenPatti web site](https://openpatti.wordpress.com){:target="_blank" style="text-align: left;"} 
 
 ## Patrimonio Culturale
 
